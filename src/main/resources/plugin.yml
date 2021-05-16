@@ -1,0 +1,9 @@
+main: me.lordburtz.artefakte.Artefakte
+name: artefakte
+version: 1.0
+description: adding various artefacts
+api-version: 1.16
+
+commands:
+  artefakt:
+    aliases: []
